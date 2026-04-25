@@ -1,24 +1,21 @@
 # I Henry Holding's
 
-Security research tools, Cloudflare Workers, and threat intelligence utilities.
+Cloudflare Workers, security utilities, and threat intelligence tooling.
 
-## About
+## What this org is
 
-I Henry Holding's is a small GitHub organization focused on practical edge tooling and lightweight security research projects. Current work is centered on Cloudflare Workers, request inspection, visitor intelligence, and simple threat-intel lookups.
+I Henry Holding's builds lightweight tools for edge security, visitor intelligence, request inspection, and fast threat-intel lookups. The focus is on practical projects that are easy to deploy, useful to test, and simple to extend.
 
-## Projects
+## Current projects
 
-- **cf-visitor-fetch** — Cloudflare Worker that returns visitor request intelligence as raw JSON.
-- **cf-shodan-fetch** — Cloudflare Worker that performs lightweight IP lookups using Shodan InternetDB.
+- **cf-visitor-fetch** — Returns visitor request intelligence as raw JSON.
+- **cf-shodan-fetch** — Performs lightweight IP lookups with Shodan InternetDB.
+- More edge utilities and security tooling are planned.
 
-## Focus Areas
+## Areas of focus
 
-- Cloudflare Worker utilities
-- Threat intelligence experiments
+- Cloudflare Workers
+- Threat intelligence
 - Request and header inspection
-- API wrappers for quick security lookups
-- Small infrastructure and automation projects
-
-## Notes
-
-This organization is being built out gradually. More repositories, documentation, and public tooling will be added over time.
+- Security-focused API tooling
+- Lightweight infrastructure experiments
